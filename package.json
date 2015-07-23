@@ -1,6 +1,6 @@
 {
   "name": "express-template",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A boilerplate template for serving an angular application through express",
   "main": "index.js",
   "engine": {
